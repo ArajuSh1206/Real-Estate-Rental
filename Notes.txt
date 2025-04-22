@@ -1,10 +1,17 @@
 REAL ESTATE APP
 
-Technical Skills : React, Redux, Next.js, Express.js, Node.js, Tailwind.css, AWS, EC2, Cognito, Shadcn, RDS, S3
-Npx create-next-app@latest
-Then say yes to Typescript, Eslint, Tailwind.CSS, src/ directory, approuter, & No to Turbopack & import Alias.
+Technical Skills : React, Redux, Next.js, Express.js, Node.js, Tailwind.css, AWS, EC2, Cognito, Shadcn, RDS, S3Then say yes to Typescript, Eslint, Tailwind.CSS, src/ directory, approuter, & No to Turbopack & import Alias.
 Install pesticides & redux dev tool for chrome extension. 
 Pesticide will help see and visualize pages in term of boxes which will help css. 
 Redux Dev Tool will help debug redux codes.
 
+Miro link to access diagrams 
+https://miro.com/welcomeonboard/aE90VitFbDNuKzVaU2hvY0hCMWNXTHRZd0k0T3N0WVM0RG8vL1EvQU50d2N6OFJuUVpZbURpcjh4bjFjTWd5VDFQOVVsbVBqU05HZXpKdjQ1QVNHSkJ0Uk5pR21RZU5iL0FTMDNOZ05MUHhOQUtHN2JkcHZaTDhYa29BdTl6Mmt3VHhHVHd5UWtSM1BidUtUYmxycDRnPT0hdjE=?share_link_id=693024673462
 
+npm i lucide-react dotenv data-fns react-filepond filepond filepond-plugin-image-exif-orientation filepond-plugin-image-preview framer-motion mapbox-gl lodash react-hook-form zod @hookform/resolvers
+
+npm i -D @types/node @types/uuid (for typescript)
+
+^c to close the server, then npx shadcn@latest init -d, do leady  
+
+tree -L 2 (help show file directory if ever needed!)
