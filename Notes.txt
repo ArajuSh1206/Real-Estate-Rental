@@ -1,6 +1,11 @@
 REAL ESTATE APP
 
+<<<<<<< HEAD
 Technical Skills : React, Redux, Next.js, Node.js, Tailwind.css, AWS, EC2, Cognito, Shadcn, RDS, S3Then say yes to Typescript, Eslint, Tailwind.CSS, src/ directory, approuter, & No to Turbopack & import Alias.
+=======
+Technical Skills : React, Redux, Next.js, Express.js, Node.js, Tailwind.css, AWS, EC2, Cognito, Shadcn, RDS, S3
+Then say yes to Typescript, Eslint, Tailwind.CSS, src/ directory, approuter, & No to Turbopack & import Alias.
+>>>>>>> 4857a75 (Added provider to the app)
 Install pesticides & redux dev tool for chrome extension. 
 Pesticide will help see and visualize pages in term of boxes which will help css. 
 Redux Dev Tool will help debug redux codes.
@@ -15,3 +20,11 @@ npm i -D @types/node @types/uuid (for typescript)
 ^c to close the server, then npx shadcn@latest init -d, do leady  
 
 tree -L 2 (help show file directory if ever needed!)
+
+npx shadcn@latest init 
+npx shadcn@latest add avatar badge button card checkbox command dialog dropdown-menu form input label navigation-menu radio-group select separator sheet sidebar sonner switch table tabs textarea tooltip 
+
+npm i react-redux @reduxjs/toolkit dotenv --legacy-peer-deps 
+
+src/index.d.ts declares all necessary filters on the client site for rentals.
+
